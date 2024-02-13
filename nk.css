@@ -1,0 +1,106 @@
+.navibar img
+{
+	width: 50px;
+	position: relative;
+}
+.navibar{
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%
+	position: relative;
+}
+#digital-clock
+{
+	margin-left: 8px;
+	margin-top: 7px;
+	position: relative;
+}
+.navibar a
+{
+	font-stretch: : red;
+	padding-left: 750px;
+	position: relative;
+}
+.content h1
+{
+	color: green;
+	text-align: center;
+	font-style: italic;
+	margin-top: 80px;
+	position: relative;
+}
+.spinner-grow 
+{
+	margin-left: 50px;
+	position: relative;
+}
+.content p
+{
+	color: red;
+	position: relative;
+}
+.content button
+{
+/*margin-left: 50px;*/
+width: 20%;
+height: 60px;
+border-bottom-color: blue;
+position: relative;
+}
+.content h5
+{
+	text-align:center;
+	position: relative;
+}
+.imageSlide
+img
+{
+	height:  750px
+	position: relative;
+}
+.contant2 a
+{
+
+	align-items: center;
+	color: white;
+	position: relative;
+}
+.contant2 button
+{
+	margin-left: 350px;
+	background-color: green;
+	position: relative;
+}
+.galary img
+{
+	margin-left: 140px;
+	margin-top: 10px;
+	width: 450px;
+	height: 250px;
+	position: relative;
+}
+.galary h1
+{
+	color: darkred;
+	font-style: italic;
+	text-align: center;
+	position: relative;
+
+}
+.contact h1
+{
+	color: darkred;
+	font-style: italic;
+text-align: center;
+position: relative;
+}
+
+.end
+{
+	background-image: url("https://as1.ftcdn.net/v2/jpg/01/06/92/74/1000_F_106927428_OH8seS798wVIsq3ygPi6XXe3xh5gzxNE.jpg");
+}
+.top
+{
+	background-image:url("https://media.istockphoto.com/id/1314037715/photo/smart-home-symbol.jpg?s=1024x1024&w=is&k=20&c=d6JYiQed1Ruz1adlXsZIVx_C8rwm8c3ykXgqQBfm6jw=");
+}
